@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "//zenitfan19.github.io/context-app/static/js/main.7dc84c7d.chunk.js",
+    "main.js.map": "//zenitfan19.github.io/context-app/static/js/main.7dc84c7d.chunk.js.map",
+    "runtime-main.js": "//zenitfan19.github.io/context-app/static/js/runtime-main.ae67393b.js",
+    "runtime-main.js.map": "//zenitfan19.github.io/context-app/static/js/runtime-main.ae67393b.js.map",
+    "static/js/2.2e337340.chunk.js": "//zenitfan19.github.io/context-app/static/js/2.2e337340.chunk.js",
+    "static/js/2.2e337340.chunk.js.map": "//zenitfan19.github.io/context-app/static/js/2.2e337340.chunk.js.map",
+    "index.html": "//zenitfan19.github.io/context-app/index.html",
+    "static/js/2.2e337340.chunk.js.LICENSE.txt": "//zenitfan19.github.io/context-app/static/js/2.2e337340.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae67393b.js",
+    "static/js/2.2e337340.chunk.js",
+    "static/js/main.7dc84c7d.chunk.js"
+  ]
+}
